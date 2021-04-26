@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Miguel Angelo",
+      "email": "miguel@mm.com",
+      "id": 5
+    },
+    {
+      "name": "Brunna Suanny",
+      "email": "brunna@bb.com",
+      "id": 6
+    },
+    {
+      "name": "Gilvan Santos",
+      "email": "gilvan@gmail.com",
+      "id": 7
+    }
+  ]
+}
