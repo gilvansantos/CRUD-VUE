@@ -5,10 +5,4 @@ Vue.component('header-vue', {
             <button v-on:click="mostrarNomes">Click</button>
         </header>
     `,
-    
-    methods: {
-        mostrarNomes: function() {
-            alert('Olá')
-        }
-    }
 }) 
